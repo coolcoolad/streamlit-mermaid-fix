@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmermaid_viewer=self.webpackChunkmermaid_viewer||[]).push([[639],{5639:function(e,r,c){c.r(r),c.d(r,{PacketModule:function(){return n.$},createPacketServices:function(){return n.g}});var n=c(1939);c(7522)}}]);

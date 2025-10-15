@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmermaid_viewer=self.webpackChunkmermaid_viewer||[]).push([[936],{1936:function(e,r,n){n.r(r),n.d(r,{InfoModule:function(){return u.H},createInfoServices:function(){return u.M}});var u=n(1344);n(7522)}}]);
